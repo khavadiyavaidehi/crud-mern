@@ -1,0 +1,6 @@
+first start backend
+ backend: npm run dev
+the start frontend
+ frontend: npm start
+
+
